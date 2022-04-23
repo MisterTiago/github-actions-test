@@ -1,0 +1,16 @@
+name: Tiago Peres de Sousa
+age: 27
+address: "Vila Nova de Gaia: Rua Dr António Luís Gomes, nº59 1DT"
+handsome: true
+nested:
+  surname: Peres
+json_object: {key1: value1, key2: value2}
+array:
+  - item1
+  - item2
+json_array: [item1, item2]
+objects_array:
+  - key: value
+    key2: value2
+  - key: value
+    key3: value3
